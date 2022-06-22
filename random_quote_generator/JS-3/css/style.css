@@ -1,0 +1,18 @@
+.group {
+background: aquamarine;
+position: absolute;
+top: 30%;
+left: 30%;
+width: 400px;
+}
+#information {
+text-align: center;
+}
+
+
+#info-form {
+    margin-left: 60px;
+}
+ button {
+    margin-left: 20%;
+ }
